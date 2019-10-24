@@ -1,0 +1,1 @@
+INSERT INTO `cidaderesource`.`cidade` (`id`, `nome`, `populacao`, `latitude`, `longitude`) VALUES ('1', 'São Paulo', '12.252.023', '-23.5489', ' -46.6388');
